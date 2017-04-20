@@ -7,6 +7,6 @@ namespace Tom
         public static void PeeOnTheFloor()
         {
             Console.WriteLine("Peeing on the floor and not caring about it...");
-        }
+        } 
     }
 }
